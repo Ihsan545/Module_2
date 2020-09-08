@@ -2,7 +2,7 @@
 Program: test_camper_age_input.py
 Author: Ihsanullah Anwary
 Last date modified: 09/07/2020
-This tests the program for converts age in years to months.
+This tests the program for converts age in years to months..
 """
 
 
